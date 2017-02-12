@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "A shy guy's blog"
-baseURL = "https://luuhai.github.io/site/"
+baseURL = "https://luuhai.github.io/blog/"
 
 [Params]
   Author = "Lưu Tuấn Hải"
