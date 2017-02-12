@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A shy guy&#39;s blog</title>
-    <link>https://luuhai.github.io/site/post/index.xml</link>
+    <link>https://luuhai.github.io/blog/post/index.xml</link>
     <description>Recent content in Posts on A shy guy&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Feb 2017 23:42:32 +0700</lastBuildDate>
-    <atom:link href="https://luuhai.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://luuhai.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>An efficient bash trick: repeat last command</title>
-      <link>https://luuhai.github.io/site/post/an-efficient-bash-trick-repreat-last-command/</link>
+      <link>https://luuhai.github.io/blog/post/an-efficient-bash-trick-repreat-last-command/</link>
       <pubDate>Sun, 12 Feb 2017 23:42:32 +0700</pubDate>
       
-      <guid>https://luuhai.github.io/site/post/an-efficient-bash-trick-repreat-last-command/</guid>
+      <guid>https://luuhai.github.io/blog/post/an-efficient-bash-trick-repreat-last-command/</guid>
       <description>&lt;p&gt;If you want to repeat the last command, just type in &lt;code&gt;!!&lt;/code&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;$  echo blah
