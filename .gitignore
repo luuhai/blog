@@ -16,5 +16,6 @@
 # Vim swap files
 *.swp
 
-# Hugo public folder
+# Hugo folder
 public
+themes
