@@ -4,4 +4,9 @@ baseURL = "https://luuhai.github.io/blog/"
 
 [Params]
   Author = "Lưu Tuấn Hải"
-  disqusShortName = "luuhai"
+  name = "Hải"
+  bio = "A lazy programmer"
+  enableRSS = true
+  disqusShortName = "hailtblog"
+[Social]
+  twitter = "https://twitter.com/eminter25391"
